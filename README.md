@@ -33,8 +33,8 @@ I dont quite know how to include screenshots yet. hopefully with time i would kn
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Rodney-Mokenyu/social-links-profile.git)
+- Live Site URL: ( https://rodney-mokenyu.github.io/social-links-profile/)
 
 ## My process
 
